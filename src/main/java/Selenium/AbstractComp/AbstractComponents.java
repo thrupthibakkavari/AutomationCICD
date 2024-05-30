@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import Selenium.pageObjects.CartPage;
 import Selenium.pageObjects.OrderPage;
-import bsh.This;
+
 
 public class AbstractComponents {
 	WebDriver driver;
